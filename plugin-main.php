@@ -203,7 +203,7 @@ function wexpand_automusic_options_framwrork() {
                     </table>	
                         <div class="mone-needs-money">
                             <h2>Unlock those features only for $2</h2>
-                            <a href="">Purchase premium version</a>
+                            <a target="_blank" href="http://wpexpand.com/plugins/premium-plugins/autoplay-music/">Purchase premium version</a>
                         </div>						
 						
 						</div>	
